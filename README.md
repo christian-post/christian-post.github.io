@@ -1,2 +1,3 @@
-# christian-post.github.io
-game test
+# Just some testing
+
+play the game at https://christian-post.github.io
